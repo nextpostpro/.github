@@ -2,13 +2,21 @@
 
 # About NextPost Pro
 
-Welcome to NextPost Pro - an advanced AI-powered marketing platform built for intelligent content automation and scalable social media workflows. We go beyond traditional automation tools by combining AI-driven content generation, smart chatbots, and flexible automation chains into a single, powerful ecosystem.
+Welcome to NextPost Pro - an advanced AI-powered marketing platform built for intelligent content automation and scalable social media workflows. It combines AI-driven content generation, smart chatbots, and flexible automation chains into a single, unified ecosystem.
 
-NextPost Pro is designed for businesses, developers, and agencies who want to automate content creation, streamline social media management, and integrate AI directly into their marketing processes. Our focus is on reliability, performance, and deep customization - giving you full control over how your automation workflows evolve and scale.
+NextPost Pro is designed for businesses, developers, and agencies looking to automate content creation, streamline social media operations, and integrate AI directly into their marketing processes. The platform focuses on reliability, performance, and deep customization - giving you full control over how your automation workflows evolve and scale.
 
 _____
 
+- Automate content and social media workflows with AI
+- Build intelligent chatbots and automation chains
+- Designed for scalable, performance-oriented marketing automation
 - Need help or guidance? [Chat with us](https://nextpost.pro/contacts#chatraChatExpanded)
-- Automate smarter with AI-powered content and chatbots
-- Build flexible automation chains and integrations
-- Designed for scalable social media and marketing automation
+
+## Contact & Website
+
+Have questions, partnership inquiries, or need technical assistance? Feel free to reach out or [visit our website](https://nextpost.pro).
+
+- [Chat with us](https://nextpost.pro/contacts#chatraChatExpanded)
+- Email: [contact@nextpost.pro](mailto:contact@nextpost.pro)
+- Website: https://nextpost.pro
