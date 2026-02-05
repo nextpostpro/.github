@@ -1,4 +1,5 @@
-[<img width="2206" alt="nextpostpro" src="https://github.com/user-attachments/assets/996f7cbd-6ed0-493d-8282-67d51dca0d95">](https://nextpost.pro)
+[<img width="2206" alt="nextpostpro" src="https://github.com/user-attachments/assets/421426cc-33fc-4e95-9733-f55e617b8347">](https://nextpost.pro)
+
 
 # About NextPost Pro
 
