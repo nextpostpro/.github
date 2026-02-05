@@ -1,5 +1,4 @@
-[<img width="2206" alt="nextpostpro" src="https://github.com/user-attachments/assets/421426cc-33fc-4e95-9733-f55e617b8347">](https://nextpost.pro)
-
+[<img width="2206" alt="nextpostpro" src="https://github.com/user-attachments/assets/6f3b65ae-af26-4a18-8f2b-4587f01c0dfc">](https://nextpost.pro)
 
 # About NextPost Pro
 
@@ -21,3 +20,12 @@ Have questions, partnership inquiries, or need technical assistance? Feel free t
 - [Chat with us](https://nextpost.pro/contacts#chatraChatExpanded)
 - Email: [contact@nextpost.pro](mailto:contact@nextpost.pro)
 - Website: https://nextpost.pro
+
+## Our Partners
+
+We work with trusted platforms and services that help power and support our infrastructure, payments, and automation workflows.
+
+- [DigitalOcean](https://m.do.co/c/502c5061cba5) | Cloud infrastructure provider
+- [Wise](https://wise.prf.hn/click/camref:1101loTfR) | International payments and money transfers
+- [Stripe](https://stripe.com) | Online payment processing for internet businesses
+- [AirProxy](https://airproxy.io/8960) | Mobile 4G proxies for automation and scaling
